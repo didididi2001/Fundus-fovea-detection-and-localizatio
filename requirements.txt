@@ -1,0 +1,3 @@
+pip install torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install albumentations
+pip install pillow
